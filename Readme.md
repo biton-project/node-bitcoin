@@ -1,5 +1,7 @@
 # node-bitcoin
 
+**NOTE: The active fork for this project is now located at [freewil/node-bitcoin](https://github.com/freewil/node-bitcoin)**
+
 node-bitcoin is a simple wrapper for the Bitcoin client's JSON-RPC API.
 
 The API is equivalent to the API document [here](https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_Calls_list).
